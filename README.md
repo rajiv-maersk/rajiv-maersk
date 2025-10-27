@@ -3,7 +3,9 @@
 For any support related to Capella, MSAH, or MSS, please check the links below.
 
 capella: https://github.com/Maersk-Global/capella-support/discussions
+
 msah: https://teams.microsoft.com/l/channel/19%3Ad8af7b79022f47bc9c4443552d543e1d%40thread.tacv2/MSAH%20(Maersk%20Service%20Account%20Hub)?groupId=493c39ce-78a8-41c0-ad5e-87d914c7cb38&tenantId=05d75c05-fa1a-42e7-9cf1-eb416c396f2d
+
 mss: https://teams.microsoft.com/l/channel/19%3A3f094f387f584733b0a06c3c240764bb%40thread.tacv2/MSS%20(Maersk%20Secret%20Store)?groupId=493c39ce-78a8-41c0-ad5e-87d914c7cb38&tenantId=05d75c05-fa1a-42e7-9cf1-eb416c396f2d
 
 <!--
